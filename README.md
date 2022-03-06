@@ -8,7 +8,7 @@ This readme is best viewed with markdown enabled. it can be found online here [h
 
 The application should work plug and play as long as the db is in the same directory as the script, regardless of the data in the table already. However there is no exception handling for a locked db, or insert violations (uniqueness, etc).
 
-**Make sure you run the application with a terminal to see the output.**
+After performing the initial test/demo operations, a tk window opens that allows you to get all row data from all tables.
 
 
 ## Opening the DB to view
